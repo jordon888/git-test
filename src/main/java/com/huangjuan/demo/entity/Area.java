@@ -9,6 +9,7 @@ public class Area {
     private Date createTime;
     private Date lastEditTime;
     //private Integer age;
+    //就是测试一下
 
     public Integer getAreaId() {
         return areaId;
