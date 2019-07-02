@@ -8,6 +8,7 @@ public class Area {
     private Integer priority;
     private Date createTime;
     private Date lastEditTime;
+    //private Integer age;
 
     public Integer getAreaId() {
         return areaId;
